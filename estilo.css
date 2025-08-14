@@ -1,0 +1,14 @@
+.header{
+    background-color: coral;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+        }
+.main {
+            font-family: monospace;
+            background-color: aqua;
+        }
+.footer {
+            background-color: #333;
+            color: white;
+            padding: 2rem;
+            text-align: center;
+        }
